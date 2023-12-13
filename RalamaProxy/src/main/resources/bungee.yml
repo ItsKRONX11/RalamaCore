@@ -1,0 +1,3 @@
+name: RalamaProxy
+version: '${project.version}'
+main: net.ralama.ralamaproxy.RalamaProxy

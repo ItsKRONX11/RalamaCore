@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Bungee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bungee/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Packets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Packets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaCloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaCloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaLobby/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaLobby/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaProxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaProxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaSpigot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaSpigot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RalamaWeb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebInterface/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

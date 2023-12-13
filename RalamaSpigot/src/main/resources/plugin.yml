@@ -1,0 +1,9 @@
+name: RalamaSpigot
+version: '${project.version}'
+main: net.ralama.spigot.RalamaSpigot
+api-version: '1.13'
+commands:
+  chatcolor:
+  serverinfo:
+  locale:
+  language:

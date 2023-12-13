@@ -1,0 +1,6 @@
+name: RalamaLobby
+version: '${project.version}'
+main: net.ralama.lobby.RalamaLobby
+api-version: '1.13'
+depend:
+  - RalamaSpigot
